@@ -12,6 +12,6 @@
 
 🔭 Atualmente trabalhando como **Desenvolvedor Backend na [Diverti Tecnologia](https://diverti.io)**.  
 🌱 Estudando e aprimorando **Python fundamentos**, **estrutura de dados** e **algoritmos**.     
-📫 **Como falar comigo:** cesar.celino.14@gmail.com  
+📫 **Como falar comigo:** cesar.cln.3005@gmail.com  
 😄 Pronomes: Ele/Dele  
 ⚡ Fato curioso: Viciado em ☕ e livros sobre cyberpunk/ficção cientifica.  
