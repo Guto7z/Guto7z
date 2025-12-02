@@ -1,4 +1,4 @@
-**Desenvolvedor Backend** com interesse em construir aplicações sólidas e úteis, sempre buscando aprender e evoluir como profissional e pessoa.
+**Desenvolvedor Backend** com interesse em construir aplicações sólidas e úteis, sempre buscando aprender e evoluir como profissional.
 
 ---
 
