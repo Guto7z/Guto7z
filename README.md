@@ -10,7 +10,7 @@
 
 ### 🚀 Sobre mim
 
-🌱 Estudando e aprimorando **Node fundamentos**, **typescript**, **[nesoi-org](https://github.com/nesoi-org) framework**     
+🌱 Estudando e aprimorando: **Node fundamentos**, **typescript**, **[nesoi-org](https://github.com/nesoi-org) framework**     
 📫 **Como falar comigo:** cesar.cln.3005@gmail.com  
 😄 Pronomes: Ele/Dele  
 ⚡ Fato curioso: Viciado em ☕ e livros sobre cyberpunk/ficção cientifica.  
