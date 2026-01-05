@@ -12,4 +12,4 @@
 
 🌱 Estudando e aprimorando: **Node fundamentos**, **typescript**, **[nesoi-org](https://github.com/nesoi-org) framework**    
 
-📫 **Como falar comigo:** cesar.cln.3005@gmail.com  
+📫 **Como falar comigo:** cesar.celino.05@gmail.com  
