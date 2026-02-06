@@ -10,5 +10,5 @@
 
 ### 🚀 Sobre mim
 
-🌱 Estudando e aprimorando: **Node fundamentos**, **typescript**, **[nesoi-org](https://github.com/nesoi-org) framework**    
+🌱 Estudando e aprimorando: **Node**, **typescript**, **[nesoi-org](https://github.com/nesoi-org) framework**    
 📫 **Como falar comigo:** cesar.celino.05@gmail.com  
